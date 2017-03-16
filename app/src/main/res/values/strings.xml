@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">Rome unknown</string>
+
+
+    <!-- Category for categories -->
+    <string name="category_street_art">Art</string>
+    <string name="category_food">Food</string>
+    <string name="category_drink">Drink</string>
+    <string name="category_architecture">Urban</string>
+
+
+    <!-- Street Art item #01 -->
+    <string name="street_art_title_untitled">Untitled</string>
+    <string name="street_art_artist_blu">Blu</string>
+    <string name="street_art_location_via_porto_fluviale">Via del Porto Fluviale, 14</string>
+
+    <!-- Street Art item #02 -->
+    <string name="street_art_title_wall">Wall of fame</string>
+    <string name="street_art_artist_jb">Jb Rock</string>
+    <string name="street_art_location_via_magazzini_generali">Via dei Magazzini Generali, 8</string>
+
+    <!-- Street Art item #03 -->
+    <string name="street_art_title_fish">Fish "'n'" kids</string>
+    <string name="street_art_artist_iacurci">Agostino Iacurci</string>
+    <string name="street_art_location_via_del_porto_fluviale_65">Via del Porto Fluviale, 65</string>
+
+    <!-- Street Art item #04 -->
+    <string name="street_art_title_jumping">Jumping wolf</string>
+    <string name="street_art_artist_roa">Roa</string>
+    <string name="street_art_location_via_alessandro_volta">Via Alessandro Volta, 62</string>
+
+    <!-- Street Art item #05 -->
+    <string name="street_art_title_its_a_new_day">It"'"s a new day</string>
+    <string name="street_art_artist_alice">Alicè</string>
+    <string name="street_art_location_via_ludovico_antinori">Via Ludovico Antinori, 10</string>
+
+
+    <!-- Food item #01 -->
+    <string name="food_shopName_said">SAID</string>
+    <string name="food_description_chocolate">Chocolate factory</string>
+    <string name="food_timetable">Mon-Sun 10.00&#8211;00.30</string>
+    <string name="food_address_tiburtina">Via Tiburtina, 135</string>
+
+    <!-- Food item #02 -->
+    <string name="food_shopName_orfeo">Orfeo</string>
+    <string name="food_description_Sandwich">Sandwich shop</string>
+    <string name="food_timetable_orfeo">Mon-Sun 18.30&#8211; "'"til late</string>
+    <string name="food_address_tiburtina_140">Via Tiburtina, 190</string>
+
+    <!-- Food item #03 -->
+    <string name="food_shopName_casa">La casa del supplì</string>
+    <string name="food_description_street_food_suppli">Street food</string>
+    <string name="food_timetable_casa">Mon-Sat 10.00&#8211;20.00 / Sun closed</string>
+    <string name="food_address_re_di_roma">Piazza Re di Roma, 20</string>
+
+    <!-- Food item #04 -->
+    <string name="food_shopName_fracescana">La Francescana</string>
+    <string name="food_description_restaurant">Restaurant</string>
+    <string name="food_timetable_francescana">Mon-Sun 12.30&#8211;15.30 / 19.30&#8211;23.30</string>
+    <string name="food_address_gp_palestrina">Via Giovanni Pierluigi da Palestrina, 11</string>
+
+    <!-- Food item #05 -->
+    <string name="food_shopName_max">Max</string>
+    <string name="food_description_bakery">Bakery</string>
+    <string name="food_timetable_max">Mon-Sun 07.00&#8211;19.30</string>
+    <string name="food_address_papirio">Via Lucio Papirio, 99</string>
+
+
+    <!-- Drink item #01 -->
+    <string name="drink_shopName_baladin">Open Baladin</string>
+    <string name="drink_description_pub">Pub</string>
+    <string name="drink_timetable_baladin">Mon-Sun 12.00&#8211;01.00</string>
+    <string name="drink_address_specchi">Via degli Specchi</string>
+
+    <!-- Drink item #02 -->
+    <string name="drink_shopName_giansanti">Giansanti</string>
+    <string name="drink_description_winebar">Wine bar</string>
+    <string name="drink_timetable_giansanti">Mon-Sat 09.30&#8211;21.30 </string>
+    <string name="drink_address_ostiense">Via Ostiense,34</string>
+
+    <!-- Drink item #03 -->
+    <string name="drink_shopName_hopificio">Hopificio</string>
+    <string name="drink_description_pub_hopificio">Pub</string>
+    <string name="drink_timetable_hopificio">Mon-Sun 18.00&#8211;02.00</string>
+    <string name="drink_address_cesare_baronio">Piazza Cesare Baronio, 2</string>
+
+    <!-- Drink item #04 -->
+    <string name="drink_shopName_hopside">Hopside</string>
+    <string name="drink_description_pub_hopside">Pub - Restaurant</string>
+    <string name="drink_timetable_hopside">Mon-Sun 18.00&#8211;00.00</string>
+    <string name="drink_address_francesco_negri">Via Francesco Negri, 39</string>
+
+    <!-- Drink item #05 -->
+    <string name="drink_shopName_peroni">L"'"Antica Birreria Peroni</string>
+    <string name="drink_description_pub_peroni">Pub - Restaurant</string>
+    <string name="drink_timetable_peroni">Mon-Sun 12.00&#8211;00.00</string>
+    <string name="drink_address_marcello">Via di San Marcello, 19</string>
+
+    <!-- Architecture item #01 -->
+    <string name="architecture_title_palazzo_zuccari">Palazzo Zuccari</string>
+    <string name="architecture_artist_zuccari">Federico Zuccari</string>
+    <string name="architecture_location_gregoriana">Via Gregoriana, 3</string>
+
+    <!-- Architecture item #02 -->
+    <string name="architecture_title_quartiere">Quartiere Coppedè</string>
+    <string name="architecture_artist_coppede">Gino Coppedè</string>
+    <string name="architecture_location_buenos_aires">Piazza Buenos Aires</string>
+
+    <!-- Architecture item #03 -->
+    <string name="architecture_title_palazzo_sivo">Chiesa di Sant"'"Ivo alla Sapienza</string>
+    <string name="architecture_artist_borromini">Francesco Borromini</string>
+    <string name="architecture_location_rinascimento">Corso del Rinascimento, 40</string>
+
+    <!-- Architecture item #04 -->
+    <string name="architecture_title_palazzo_civilta">Palazzo della Civiltà Italiana</string>
+    <string name="architecture_artist_glr">Guerrini - Lapadula - Romano</string>
+    <string name="architecture_location_quadrato">Quadrato della Concordia</string>
+
+    <!-- Architecture item #05 -->
+    <string name="architecture_title_casinacivette">Casina delle civette</string>
+    <string name="architecture_artist_jappelli">Jappelli - Fasolo</string>
+    <string name="architecture_location_nomentana">Via Nomentana, 70</string>
+</resources>
