@@ -28,4 +28,5 @@ With this app you will discover places that don't belong to the usual tourist ci
 
 --------------------------------------------------------------------------------
 
-![](https://github.com/maximilianventura/Counter/blob/master/counter.jpg)
+![](https://github.com/maximilianventura/RomeUnknown/blob/master/appTour01.jpg)
+![](https://github.com/maximilianventura/RomeUnknown/blob/master/appTour02.jpg)
